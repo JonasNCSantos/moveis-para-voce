@@ -19,4 +19,8 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - O que e um seletor CSS
 - Agrupamento de Seletor com mesmas propriedades
 - Especificidade do CSS
+- Trabalhar com cores no CSS
+- Definir a familia da fonte
+- Definir o tamanhos da fonte e espaçamento entre linhas
+- Definir o Peso da fonte
 - 

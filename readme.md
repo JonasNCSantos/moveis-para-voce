@@ -26,4 +26,5 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - Alinhamento de textos e elementos
 - shorthand das propriedades CSS
 - Seletores especias do CSS
-- 
+- Diferença entre Classes e Id
+-

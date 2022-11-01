@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Projeto: Móveis para Você</h1>
+<h1 style="text-align: center;">Projeto 01: Móveis para Você</h1>
 <img style="text-align: center;" src="./images/screenshot.png"/>
 
 ## Sobre
@@ -27,4 +27,3 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - shorthand das propriedades CSS
 - Seletores especias do CSS
 - Diferença entre Classes e Id
--

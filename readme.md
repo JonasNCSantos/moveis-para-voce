@@ -2,7 +2,7 @@
 <img style="text-align: center;" src="./images/screenshot.png"/>
 
 ## Sobre
-Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados no curso Explorer da <a href="https://www.rocketseat.com.br/">Rocketseat</a> no Stage 02.
+Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados no curso Explorer da <a href="https://www.rocketseat.com.br/">Rocketseat</a> no Stage 02.
 
 ## Aprendizados
 - Estrutura Basica de um documento HTML

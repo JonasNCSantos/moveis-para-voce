@@ -23,4 +23,5 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - Definir a familia da fonte
 - Definir o tamanhos da fonte e espaçamento entre linhas
 - Definir o Peso da fonte
+- Alinhamento de textos e elementos
 - 

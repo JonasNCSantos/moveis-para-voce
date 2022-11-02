@@ -1,12 +1,9 @@
 # Projeto 01: Móveis para Você
 <img src="./images/screenshot.png"/>
 
+### Acesse o projeto: [Aqui](https://jonasncsantos.github.io/moveis-para-voce/)
 ## Sobre
 Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados no curso Explorer da [Rocketseat](https://www.rocketseat.com.br/) no Stage 02.
-
-
-## Link do Projeto
-[Click aqui](https://jonasncsantos.github.io/moveis-para-voce/)
 ## Aprendizados
 - Estrutura Basica de um documento HTML
 - Colocar imagem no meu documento HTML

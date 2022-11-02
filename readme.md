@@ -2,11 +2,11 @@
 <img src="./images/screenshot.png"/>
 
 ## Sobre
-Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados no curso Explorer da <a href="https://www.rocketseat.com.br/" target="_black">Rocketseat</a> no Stage 02.
+Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados no curso Explorer da [Rocketseat](https://www.rocketseat.com.br/) no Stage 02.
 
 
-## Link
-<a href="https://jonasncsantos.github.io/moveis-para-voce/" target="_black">Click aqui</a>
+## Link do Projeto
+[Click aqui](https://jonasncsantos.github.io/moveis-para-voce/)
 ## Aprendizados
 - Estrutura Basica de um documento HTML
 - Colocar imagem no meu documento HTML

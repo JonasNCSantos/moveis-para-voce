@@ -1,12 +1,12 @@
-<h1 style="text-align: center;">Projeto 01: Móveis para Você</h1>
-<img style="text-align: center;" src="./images/screenshot.png"/>
+# Projeto 01: Móveis para Você
+<img src="./images/screenshot.png"/>
 
 ## Sobre
-Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados no curso Explorer da <a href="https://www.rocketseat.com.br/">Rocketseat</a> no Stage 02.
+Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados no curso Explorer da <a href="https://www.rocketseat.com.br/" target="_black">Rocketseat</a> no Stage 02.
 
 
 ## Link
-<a href="https://jonasncsantos.github.io/moveis-para-voce/">Click aqui</a>
+<a href="https://jonasncsantos.github.io/moveis-para-voce/" target="_black">Click aqui</a>
 ## Aprendizados
 - Estrutura Basica de um documento HTML
 - Colocar imagem no meu documento HTML
